@@ -19,13 +19,13 @@ img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 250% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 250% 'Helvetica Neue', arial, sans-serif;
   color: #FFF;
   margin: 0 0 15px 0;
   padding: 5px 0 5px 0;}
 
 h2
-{ font: normal 170% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 170% 'Helvetica Neue', arial, sans-serif;
   color: #FFF;  
   margin: 0;
   padding: 0 0 8px 0;}
@@ -107,7 +107,7 @@ ol li
   padding: 0 0 0px 10px;}
 
 #logo h1
-{ font: normal 350% 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 350% 'Helvetica Neue', arial, sans-serif;
   padding: 5px 0 0 17px;
   color: #FFF;
   float: left;}
@@ -145,7 +145,7 @@ ul#menu li
   background: transparent;}
 
 ul#menu li a
-{ font: normal 170% 'Yanone Kaffeesatz', sans-serif;
+{ font: normal 170% 'Helvetica Neue', sans-serif;
   text-decoration: none;
   color: #FFF;
   display: block; 
@@ -221,7 +221,7 @@ ul#menu li a:hover
 #footer
 { clear: both;
   width: 100%;
-  font: normal 150% 'yanone kaffeesatz',  arial, sans-serif;
+  font: normal 150% 'Helvetica Neue',  arial, sans-serif;
   height: 85px;
   padding: 20px 0 5px 0;
   text-align: center; 
@@ -273,7 +273,7 @@ ul#menu li a:hover
   border: 1px solid #ddd;
   padding: 5px 15px;
   background: #fff;
-  font: normal 140% 'Yanone Kaffeesatz', sans-serif;}
+  font: normal 140% 'Helvetica Neue', sans-serif;}
 
 .form_settings textarea, .form_settings select
 { font: 100% 'trebuchet ms', arial; 
@@ -309,7 +309,7 @@ ul#menu li a:hover
   float: right;
   cursor: pointer;
   margin: 0;
-  font: normal 140% 'Yanone Kaffeesatz', sans-serif;}
+  font: normal 140% 'Helvetica Neue', sans-serif;}
  
 table
 { margin: 10px 0 30px 0;}
